@@ -1,0 +1,51 @@
+/* 🔷 Estilização personalizada do sistema de gestão de leads */
+
+
+/* ✅ Ícones dos contadores */
+.card .fa-2x {
+  opacity: 0.5;
+}
+
+/* ✅ DataTables responsivo */
+table.dataTable th, table.dataTable td {
+  white-space: nowrap;
+}
+
+/* ✅ Ajuste nos cards da fila por conjunto */
+.card .card-header {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.card .list-group-item {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+}
+
+/* ✅ Cores de status (apenas reforço visual para SB Admin 2) */
+.border-left-primary {
+  border-left: 0.25rem solid #4e73df !important;
+}
+.border-left-success {
+  border-left: 0.25rem solid #1cc88a !important;
+}
+.border-left-info {
+  border-left: 0.25rem solid #36b9cc !important;
+}
+.border-left-warning {
+  border-left: 0.25rem solid #f6c23e !important;
+}
+.border-left-danger {
+  border-left: 0.25rem solid #e74a3b !important;
+}
+.border-left-secondary {
+  border-left: 0.25rem solid #858796 !important;
+}
+
+/* ✅ Responsivo para dashboards com 3 colunas */
+@media (max-width: 768px) {
+  .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,1849 @@
+[23-07-25 00:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:35:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:35:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 00:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 00:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:00:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:00:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:20:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:20:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:50:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:50:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 01:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 01:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:10:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:10:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 02:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 02:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:40:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:40:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 03:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 03:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 04:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 04:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:35:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:35:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:50:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:50:02] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 05:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 05:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 06:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 06:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 07:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 07:55:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 08:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:00:01] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Hudson Santos
+[23-07-25 08:00:02] ✅ Enviado para corretor Rodrigo Santos - Lead #319 (Hudson Santos) | MsgID: 3EB024816F5A3ADBE4F41B
+[23-07-25 08:00:02] 📤 Enviando para 5531989432440 (Corretor: Inêz Eva) | Lead: Antonio Jose Barbosa Barbosa
+[23-07-25 08:00:02] ✅ Enviado para corretor Inêz Eva - Lead #317 (Antonio Jose Barbosa Barbosa) | MsgID: 3EB0553852EFC47AE34241
+[23-07-25 08:00:02] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Idelson Alves
+[23-07-25 08:00:02] ✅ Enviado para corretor Rodrigo Santos - Lead #311 (Idelson Alves) | MsgID: 3EB03BC33C56AF5A01C3CC
+[23-07-25 08:00:02] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Rodney Heleno
+[23-07-25 08:00:02] ✅ Enviado para corretor Rodrigo Santos - Lead #296 (Rodney Heleno) | MsgID: 3EB06E4721EA3DB39E7D94
+[23-07-25 08:00:02] 📤 Enviando para 553183327758 (Corretor: Cibele Gonçalves) | Lead: Suzi Lazara Dias da Silva
+[23-07-25 08:00:02] ✅ Enviado para corretor Cibele Gonçalves - Lead #294 (Suzi Lazara Dias da Silva) | MsgID: 3EB027C0B3D9D423DB301D
+[23-07-25 08:00:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:00:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:00:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:00:02] 🏁 CRON finalizado com sucesso
+[23-07-25 08:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:05:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h04 | Próxima tentativa: 12:00
+[23-07-25 08:05:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h04 | Próxima tentativa: 12:00
+[23-07-25 08:05:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h04 | Próxima tentativa: 12:00
+[23-07-25 08:05:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h04 | Próxima tentativa: 12:00
+[23-07-25 08:05:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h04 | Próxima tentativa: 12:00
+[23-07-25 08:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:10:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h09 | Próxima tentativa: 12:00
+[23-07-25 08:10:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h09 | Próxima tentativa: 12:00
+[23-07-25 08:10:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h09 | Próxima tentativa: 12:00
+[23-07-25 08:10:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h09 | Próxima tentativa: 12:00
+[23-07-25 08:10:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h09 | Próxima tentativa: 12:00
+[23-07-25 08:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:15:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h14 | Próxima tentativa: 12:00
+[23-07-25 08:15:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h14 | Próxima tentativa: 12:00
+[23-07-25 08:15:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h14 | Próxima tentativa: 12:00
+[23-07-25 08:15:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h14 | Próxima tentativa: 12:00
+[23-07-25 08:15:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h14 | Próxima tentativa: 12:00
+[23-07-25 08:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:20:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h19 | Próxima tentativa: 12:00
+[23-07-25 08:20:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h19 | Próxima tentativa: 12:00
+[23-07-25 08:20:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h19 | Próxima tentativa: 12:00
+[23-07-25 08:20:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h19 | Próxima tentativa: 12:00
+[23-07-25 08:20:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h19 | Próxima tentativa: 12:00
+[23-07-25 08:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:25:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h24 | Próxima tentativa: 12:00
+[23-07-25 08:25:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h24 | Próxima tentativa: 12:00
+[23-07-25 08:25:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h24 | Próxima tentativa: 12:00
+[23-07-25 08:25:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h24 | Próxima tentativa: 12:00
+[23-07-25 08:25:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h24 | Próxima tentativa: 12:00
+[23-07-25 08:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:30:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h29 | Próxima tentativa: 12:00
+[23-07-25 08:30:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h29 | Próxima tentativa: 12:00
+[23-07-25 08:30:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h29 | Próxima tentativa: 12:00
+[23-07-25 08:30:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h29 | Próxima tentativa: 12:00
+[23-07-25 08:30:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h29 | Próxima tentativa: 12:00
+[23-07-25 08:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:35:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h34 | Próxima tentativa: 12:00
+[23-07-25 08:35:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h34 | Próxima tentativa: 12:00
+[23-07-25 08:35:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h34 | Próxima tentativa: 12:00
+[23-07-25 08:35:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h34 | Próxima tentativa: 12:00
+[23-07-25 08:35:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h34 | Próxima tentativa: 12:00
+[23-07-25 08:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:40:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h39 | Próxima tentativa: 12:00
+[23-07-25 08:40:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h39 | Próxima tentativa: 12:00
+[23-07-25 08:40:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h39 | Próxima tentativa: 12:00
+[23-07-25 08:40:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h39 | Próxima tentativa: 12:00
+[23-07-25 08:40:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h39 | Próxima tentativa: 12:00
+[23-07-25 08:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:45:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h44 | Próxima tentativa: 12:00
+[23-07-25 08:45:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h44 | Próxima tentativa: 12:00
+[23-07-25 08:45:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h44 | Próxima tentativa: 12:00
+[23-07-25 08:45:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h44 | Próxima tentativa: 12:00
+[23-07-25 08:45:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h44 | Próxima tentativa: 12:00
+[23-07-25 08:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:50:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h49 | Próxima tentativa: 12:00
+[23-07-25 08:50:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h49 | Próxima tentativa: 12:00
+[23-07-25 08:50:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h49 | Próxima tentativa: 12:00
+[23-07-25 08:50:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h49 | Próxima tentativa: 12:00
+[23-07-25 08:50:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h49 | Próxima tentativa: 12:00
+[23-07-25 08:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 08:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 08:55:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h54 | Próxima tentativa: 12:00
+[23-07-25 08:55:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h54 | Próxima tentativa: 12:00
+[23-07-25 08:55:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h54 | Próxima tentativa: 12:00
+[23-07-25 08:55:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h54 | Próxima tentativa: 12:00
+[23-07-25 08:55:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h54 | Próxima tentativa: 12:00
+[23-07-25 08:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 08:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 08:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 08:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:00:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h59 | Próxima tentativa: 12:00
+[23-07-25 09:00:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h59 | Próxima tentativa: 12:00
+[23-07-25 09:00:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h59 | Próxima tentativa: 12:00
+[23-07-25 09:00:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h59 | Próxima tentativa: 12:00
+[23-07-25 09:00:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 21h59 | Próxima tentativa: 12:00
+[23-07-25 09:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:05:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h04 | Próxima tentativa: 12:00
+[23-07-25 09:05:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h04 | Próxima tentativa: 12:00
+[23-07-25 09:05:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h04 | Próxima tentativa: 12:00
+[23-07-25 09:05:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h04 | Próxima tentativa: 12:00
+[23-07-25 09:05:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h04 | Próxima tentativa: 12:00
+[23-07-25 09:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:10:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h09 | Próxima tentativa: 12:00
+[23-07-25 09:10:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h09 | Próxima tentativa: 12:00
+[23-07-25 09:10:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h09 | Próxima tentativa: 12:00
+[23-07-25 09:10:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h09 | Próxima tentativa: 12:00
+[23-07-25 09:10:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h09 | Próxima tentativa: 12:00
+[23-07-25 09:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:15:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:15:02] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h15 | Próxima tentativa: 12:00
+[23-07-25 09:15:02] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h15 | Próxima tentativa: 12:00
+[23-07-25 09:15:02] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h15 | Próxima tentativa: 12:00
+[23-07-25 09:15:02] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h15 | Próxima tentativa: 12:00
+[23-07-25 09:15:02] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h15 | Próxima tentativa: 12:00
+[23-07-25 09:15:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:15:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:15:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:15:02] 🏁 CRON finalizado com sucesso
+[23-07-25 09:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:20:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h19 | Próxima tentativa: 12:00
+[23-07-25 09:20:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h19 | Próxima tentativa: 12:00
+[23-07-25 09:20:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h19 | Próxima tentativa: 12:00
+[23-07-25 09:20:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h19 | Próxima tentativa: 12:00
+[23-07-25 09:20:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h19 | Próxima tentativa: 12:00
+[23-07-25 09:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:25:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h24 | Próxima tentativa: 12:00
+[23-07-25 09:25:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h24 | Próxima tentativa: 12:00
+[23-07-25 09:25:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h24 | Próxima tentativa: 12:00
+[23-07-25 09:25:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h24 | Próxima tentativa: 12:00
+[23-07-25 09:25:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h24 | Próxima tentativa: 12:00
+[23-07-25 09:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:30:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h29 | Próxima tentativa: 12:00
+[23-07-25 09:30:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h29 | Próxima tentativa: 12:00
+[23-07-25 09:30:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h29 | Próxima tentativa: 12:00
+[23-07-25 09:30:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h29 | Próxima tentativa: 12:00
+[23-07-25 09:30:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h29 | Próxima tentativa: 12:00
+[23-07-25 09:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:35:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h34 | Próxima tentativa: 12:00
+[23-07-25 09:35:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h34 | Próxima tentativa: 12:00
+[23-07-25 09:35:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h34 | Próxima tentativa: 12:00
+[23-07-25 09:35:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h34 | Próxima tentativa: 12:00
+[23-07-25 09:35:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h34 | Próxima tentativa: 12:00
+[23-07-25 09:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:40:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:40:02] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h40 | Próxima tentativa: 12:00
+[23-07-25 09:40:02] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h40 | Próxima tentativa: 12:00
+[23-07-25 09:40:02] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h40 | Próxima tentativa: 12:00
+[23-07-25 09:40:02] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h40 | Próxima tentativa: 12:00
+[23-07-25 09:40:02] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h40 | Próxima tentativa: 12:00
+[23-07-25 09:40:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:40:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:40:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:40:02] 🏁 CRON finalizado com sucesso
+[23-07-25 09:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:45:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h44 | Próxima tentativa: 12:00
+[23-07-25 09:45:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h44 | Próxima tentativa: 12:00
+[23-07-25 09:45:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h44 | Próxima tentativa: 12:00
+[23-07-25 09:45:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h44 | Próxima tentativa: 12:00
+[23-07-25 09:45:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h44 | Próxima tentativa: 12:00
+[23-07-25 09:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:50:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h49 | Próxima tentativa: 12:00
+[23-07-25 09:50:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h49 | Próxima tentativa: 12:00
+[23-07-25 09:50:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h49 | Próxima tentativa: 12:00
+[23-07-25 09:50:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h49 | Próxima tentativa: 12:00
+[23-07-25 09:50:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h49 | Próxima tentativa: 12:00
+[23-07-25 09:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 09:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 09:55:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h54 | Próxima tentativa: 12:00
+[23-07-25 09:55:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h54 | Próxima tentativa: 12:00
+[23-07-25 09:55:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h54 | Próxima tentativa: 12:00
+[23-07-25 09:55:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h54 | Próxima tentativa: 12:00
+[23-07-25 09:55:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h54 | Próxima tentativa: 12:00
+[23-07-25 09:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 09:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 09:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 09:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:00:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h59 | Próxima tentativa: 12:00
+[23-07-25 10:00:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h59 | Próxima tentativa: 12:00
+[23-07-25 10:00:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h59 | Próxima tentativa: 12:00
+[23-07-25 10:00:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h59 | Próxima tentativa: 12:00
+[23-07-25 10:00:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 22h59 | Próxima tentativa: 12:00
+[23-07-25 10:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:05:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h04 | Próxima tentativa: 12:00
+[23-07-25 10:05:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h04 | Próxima tentativa: 12:00
+[23-07-25 10:05:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h04 | Próxima tentativa: 12:00
+[23-07-25 10:05:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h04 | Próxima tentativa: 12:00
+[23-07-25 10:05:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h04 | Próxima tentativa: 12:00
+[23-07-25 10:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:10:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h09 | Próxima tentativa: 12:00
+[23-07-25 10:10:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h09 | Próxima tentativa: 12:00
+[23-07-25 10:10:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h09 | Próxima tentativa: 12:00
+[23-07-25 10:10:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h09 | Próxima tentativa: 12:00
+[23-07-25 10:10:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h09 | Próxima tentativa: 12:00
+[23-07-25 10:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:15:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h14 | Próxima tentativa: 12:00
+[23-07-25 10:15:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h14 | Próxima tentativa: 12:00
+[23-07-25 10:15:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h14 | Próxima tentativa: 12:00
+[23-07-25 10:15:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h14 | Próxima tentativa: 12:00
+[23-07-25 10:15:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h14 | Próxima tentativa: 12:00
+[23-07-25 10:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:20:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h19 | Próxima tentativa: 12:00
+[23-07-25 10:20:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h19 | Próxima tentativa: 12:00
+[23-07-25 10:20:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h19 | Próxima tentativa: 12:00
+[23-07-25 10:20:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h19 | Próxima tentativa: 12:00
+[23-07-25 10:20:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h19 | Próxima tentativa: 12:00
+[23-07-25 10:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:25:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h24 | Próxima tentativa: 12:00
+[23-07-25 10:25:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h24 | Próxima tentativa: 12:00
+[23-07-25 10:25:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h24 | Próxima tentativa: 12:00
+[23-07-25 10:25:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h24 | Próxima tentativa: 12:00
+[23-07-25 10:25:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h24 | Próxima tentativa: 12:00
+[23-07-25 10:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:30:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h29 | Próxima tentativa: 12:00
+[23-07-25 10:30:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h29 | Próxima tentativa: 12:00
+[23-07-25 10:30:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h29 | Próxima tentativa: 12:00
+[23-07-25 10:30:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h29 | Próxima tentativa: 12:00
+[23-07-25 10:30:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h29 | Próxima tentativa: 12:00
+[23-07-25 10:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:35:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:35:02] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h35 | Próxima tentativa: 12:00
+[23-07-25 10:35:02] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h35 | Próxima tentativa: 12:00
+[23-07-25 10:35:02] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h35 | Próxima tentativa: 12:00
+[23-07-25 10:35:02] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h35 | Próxima tentativa: 12:00
+[23-07-25 10:35:02] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h35 | Próxima tentativa: 12:00
+[23-07-25 10:35:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:35:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:35:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:35:02] 🏁 CRON finalizado com sucesso
+[23-07-25 10:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:40:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h39 | Próxima tentativa: 12:00
+[23-07-25 10:40:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h39 | Próxima tentativa: 12:00
+[23-07-25 10:40:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h39 | Próxima tentativa: 12:00
+[23-07-25 10:40:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h39 | Próxima tentativa: 12:00
+[23-07-25 10:40:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h39 | Próxima tentativa: 12:00
+[23-07-25 10:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:45:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h44 | Próxima tentativa: 12:00
+[23-07-25 10:45:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h44 | Próxima tentativa: 12:00
+[23-07-25 10:45:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h44 | Próxima tentativa: 12:00
+[23-07-25 10:45:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h44 | Próxima tentativa: 12:00
+[23-07-25 10:45:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h44 | Próxima tentativa: 12:00
+[23-07-25 10:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:50:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h49 | Próxima tentativa: 12:00
+[23-07-25 10:50:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h49 | Próxima tentativa: 12:00
+[23-07-25 10:50:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h49 | Próxima tentativa: 12:00
+[23-07-25 10:50:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h49 | Próxima tentativa: 12:00
+[23-07-25 10:50:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h49 | Próxima tentativa: 12:00
+[23-07-25 10:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 10:55:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 10:55:02] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h55 | Próxima tentativa: 12:00
+[23-07-25 10:55:02] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h55 | Próxima tentativa: 12:00
+[23-07-25 10:55:02] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h55 | Próxima tentativa: 12:00
+[23-07-25 10:55:02] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h55 | Próxima tentativa: 12:00
+[23-07-25 10:55:02] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h55 | Próxima tentativa: 12:00
+[23-07-25 10:55:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 10:55:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 10:55:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 10:55:02] 🏁 CRON finalizado com sucesso
+[23-07-25 11:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:00:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h59 | Próxima tentativa: 12:00
+[23-07-25 11:00:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h59 | Próxima tentativa: 12:00
+[23-07-25 11:00:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h59 | Próxima tentativa: 12:00
+[23-07-25 11:00:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h59 | Próxima tentativa: 12:00
+[23-07-25 11:00:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 23h59 | Próxima tentativa: 12:00
+[23-07-25 11:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:05:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h04 | Próxima tentativa: 12:00
+[23-07-25 11:05:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h04 | Próxima tentativa: 12:00
+[23-07-25 11:05:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h04 | Próxima tentativa: 12:00
+[23-07-25 11:05:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h04 | Próxima tentativa: 12:00
+[23-07-25 11:05:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h04 | Próxima tentativa: 12:00
+[23-07-25 11:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:10:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h09 | Próxima tentativa: 12:00
+[23-07-25 11:10:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h09 | Próxima tentativa: 12:00
+[23-07-25 11:10:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h09 | Próxima tentativa: 12:00
+[23-07-25 11:10:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h09 | Próxima tentativa: 12:00
+[23-07-25 11:10:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h09 | Próxima tentativa: 12:00
+[23-07-25 11:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:15:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h14 | Próxima tentativa: 12:00
+[23-07-25 11:15:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h14 | Próxima tentativa: 12:00
+[23-07-25 11:15:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h14 | Próxima tentativa: 12:00
+[23-07-25 11:15:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h14 | Próxima tentativa: 12:00
+[23-07-25 11:15:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h14 | Próxima tentativa: 12:00
+[23-07-25 11:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:20:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h19 | Próxima tentativa: 12:00
+[23-07-25 11:20:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h19 | Próxima tentativa: 12:00
+[23-07-25 11:20:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h19 | Próxima tentativa: 12:00
+[23-07-25 11:20:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h19 | Próxima tentativa: 12:00
+[23-07-25 11:20:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h19 | Próxima tentativa: 12:00
+[23-07-25 11:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:25:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h24 | Próxima tentativa: 12:00
+[23-07-25 11:25:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h24 | Próxima tentativa: 12:00
+[23-07-25 11:25:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h24 | Próxima tentativa: 12:00
+[23-07-25 11:25:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h24 | Próxima tentativa: 12:00
+[23-07-25 11:25:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h24 | Próxima tentativa: 12:00
+[23-07-25 11:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:30:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h29 | Próxima tentativa: 12:00
+[23-07-25 11:30:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h29 | Próxima tentativa: 12:00
+[23-07-25 11:30:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h29 | Próxima tentativa: 12:00
+[23-07-25 11:30:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h29 | Próxima tentativa: 12:00
+[23-07-25 11:30:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h29 | Próxima tentativa: 12:00
+[23-07-25 11:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:35:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h34 | Próxima tentativa: 12:00
+[23-07-25 11:35:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h34 | Próxima tentativa: 12:00
+[23-07-25 11:35:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h34 | Próxima tentativa: 12:00
+[23-07-25 11:35:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h34 | Próxima tentativa: 12:00
+[23-07-25 11:35:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h34 | Próxima tentativa: 12:00
+[23-07-25 11:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:40:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:40:02] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h40 | Próxima tentativa: 12:00
+[23-07-25 11:40:02] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h40 | Próxima tentativa: 12:00
+[23-07-25 11:40:02] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h40 | Próxima tentativa: 12:00
+[23-07-25 11:40:02] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h40 | Próxima tentativa: 12:00
+[23-07-25 11:40:02] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h40 | Próxima tentativa: 12:00
+[23-07-25 11:40:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:40:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:40:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:40:02] 🏁 CRON finalizado com sucesso
+[23-07-25 11:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:45:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h44 | Próxima tentativa: 12:00
+[23-07-25 11:45:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h44 | Próxima tentativa: 12:00
+[23-07-25 11:45:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h44 | Próxima tentativa: 12:00
+[23-07-25 11:45:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h44 | Próxima tentativa: 12:00
+[23-07-25 11:45:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h44 | Próxima tentativa: 12:00
+[23-07-25 11:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:50:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h49 | Próxima tentativa: 12:00
+[23-07-25 11:50:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h49 | Próxima tentativa: 12:00
+[23-07-25 11:50:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h49 | Próxima tentativa: 12:00
+[23-07-25 11:50:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h49 | Próxima tentativa: 12:00
+[23-07-25 11:50:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h49 | Próxima tentativa: 12:00
+[23-07-25 11:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 11:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 11:55:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h54 | Próxima tentativa: 12:00
+[23-07-25 11:55:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h54 | Próxima tentativa: 12:00
+[23-07-25 11:55:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h54 | Próxima tentativa: 12:00
+[23-07-25 11:55:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h54 | Próxima tentativa: 12:00
+[23-07-25 11:55:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h54 | Próxima tentativa: 12:00
+[23-07-25 11:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 11:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 11:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 11:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:00:01] ⏳ Lead #319 (Hudson Santos) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h59 | Próxima tentativa: 12:00
+[23-07-25 12:00:01] ⏳ Lead #317 (Antonio Jose Barbosa Barbosa) - Corretor: Inêz Eva | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h59 | Próxima tentativa: 12:00
+[23-07-25 12:00:01] ⏳ Lead #311 (Idelson Alves) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h59 | Próxima tentativa: 12:00
+[23-07-25 12:00:01] ⏳ Lead #296 (Rodney Heleno) - Corretor: Rodrigo Santos | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h59 | Próxima tentativa: 12:00
+[23-07-25 12:00:01] ⏳ Lead #294 (Suzi Lazara Dias da Silva) - Corretor: Cibele Gonçalves | Última tentativa: 23/07 11:00 | Tempo decorrido: 00h59 | Próxima tentativa: 12:00
+[23-07-25 12:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:05:01] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Hudson Santos
+[23-07-25 12:05:01] ✅ Enviado para corretor Rodrigo Santos - Lead #319 (Hudson Santos) | MsgID: 3EB0591199BC0ACEC989EB
+[23-07-25 12:05:01] 📤 Enviando para 5531989432440 (Corretor: Inêz Eva) | Lead: Antonio Jose Barbosa Barbosa
+[23-07-25 12:05:02] ✅ Enviado para corretor Inêz Eva - Lead #317 (Antonio Jose Barbosa Barbosa) | MsgID: 3EB0EA9B58C8096851CB82
+[23-07-25 12:05:02] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Idelson Alves
+[23-07-25 12:05:02] ✅ Enviado para corretor Rodrigo Santos - Lead #311 (Idelson Alves) | MsgID: 3EB074055DC0CCB298CAE2
+[23-07-25 12:05:02] 📤 Enviando para 5531987373923 (Corretor: Rodrigo Santos) | Lead: Rodney Heleno
+[23-07-25 12:05:02] ✅ Enviado para corretor Rodrigo Santos - Lead #296 (Rodney Heleno) | MsgID: 3EB02CC515EEBE8989F68C
+[23-07-25 12:05:02] 📤 Enviando para 553183327758 (Corretor: Cibele Gonçalves) | Lead: Suzi Lazara Dias da Silva
+[23-07-25 12:05:02] ✅ Enviado para corretor Cibele Gonçalves - Lead #294 (Suzi Lazara Dias da Silva) | MsgID: 3EB06A3A907DB12D404187
+[23-07-25 12:05:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:05:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:05:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:05:02] 🏁 CRON finalizado com sucesso
+[23-07-25 12:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 12:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 12:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 12:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #317 (Antonio Jose Barbosa Barbosa)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 13:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 13:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 13:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:20:01] 📤 Enviando para 5531989432440 (Corretor: Inêz Eva) | Lead: Andre Carvalho
+[23-07-25 14:20:01] ✅ Enviado para corretor Inêz Eva - Lead #341 (Andre Carvalho) | MsgID: 3EB0DB8D1C555B6137AD67
+[23-07-25 14:20:01] 📤 Enviando para 5531989432440 (Corretor: Inêz Eva) | Lead: Eliane Fernandes
+[23-07-25 14:20:01] ✅ Enviado para corretor Inêz Eva - Lead #340 (Eliane Fernandes) | MsgID: 3EB01F6EA4BFCC4A66963E
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:25:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h05 | Próxima tentativa: 18:20
+[23-07-25 14:25:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h05 | Próxima tentativa: 18:20
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:30:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:30:02] 📤 Enviando para 5531999341753 (Corretor: Sara Souza) | Lead: Edna Pereira
+[23-07-25 14:30:02] ✅ Enviado para corretor Sara Souza - Lead #342 (Edna Pereira) | MsgID: 3EB00581B888E2A1DA20FC
+[23-07-25 14:30:02] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h10 | Próxima tentativa: 18:20
+[23-07-25 14:30:02] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h10 | Próxima tentativa: 18:20
+[23-07-25 14:30:02] 📤 Enviando para 553182206936 (Corretor: Suelem Miranda) | Lead: Alice Regina Abreu
+[23-07-25 14:30:02] ✅ Enviado para corretor Suelem Miranda - Lead #339 (Alice Regina Abreu) | MsgID: 3EB01010340C8BE2B95B31
+[23-07-25 14:30:02] 📤 Enviando para 553183509051 (Corretor: Adilson de Souza) | Lead: Gustavo Reis
+[23-07-25 14:30:02] ✅ Enviado para corretor Adilson de Souza - Lead #338 (Gustavo Reis) | MsgID: 3EB056FFD6808C367EF764
+[23-07-25 14:30:02] 📤 Enviando para 553183509051 (Corretor: Adilson de Souza) | Lead: Geraldo iannotta
+[23-07-25 14:30:02] ✅ Enviado para corretor Adilson de Souza - Lead #337 (Geraldo iannotta) | MsgID: 3EB04449522BAD29294B45
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:30:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:30:02] 🏁 CRON finalizado com sucesso
+[23-07-25 14:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:35:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h04 | Próxima tentativa: 18:30
+[23-07-25 14:35:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h15 | Próxima tentativa: 18:20
+[23-07-25 14:35:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h15 | Próxima tentativa: 18:20
+[23-07-25 14:35:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h04 | Próxima tentativa: 18:30
+[23-07-25 14:35:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h04 | Próxima tentativa: 18:30
+[23-07-25 14:35:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h04 | Próxima tentativa: 18:30
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h09 | Próxima tentativa: 18:30
+[23-07-25 14:40:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h20 | Próxima tentativa: 18:20
+[23-07-25 14:40:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h20 | Próxima tentativa: 18:20
+[23-07-25 14:40:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h09 | Próxima tentativa: 18:30
+[23-07-25 14:40:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h09 | Próxima tentativa: 18:30
+[23-07-25 14:40:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h09 | Próxima tentativa: 18:30
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:45:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:45:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h15 | Próxima tentativa: 18:30
+[23-07-25 14:45:02] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h25 | Próxima tentativa: 18:20
+[23-07-25 14:45:02] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h25 | Próxima tentativa: 18:20
+[23-07-25 14:45:02] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h15 | Próxima tentativa: 18:30
+[23-07-25 14:45:02] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h15 | Próxima tentativa: 18:30
+[23-07-25 14:45:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h15 | Próxima tentativa: 18:30
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:45:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:45:02] 🏁 CRON finalizado com sucesso
+[23-07-25 14:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:50:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h19 | Próxima tentativa: 18:30
+[23-07-25 14:50:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h30 | Próxima tentativa: 18:20
+[23-07-25 14:50:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h30 | Próxima tentativa: 18:20
+[23-07-25 14:50:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h19 | Próxima tentativa: 18:30
+[23-07-25 14:50:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h19 | Próxima tentativa: 18:30
+[23-07-25 14:50:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h19 | Próxima tentativa: 18:30
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 14:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 14:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h24 | Próxima tentativa: 18:30
+[23-07-25 14:55:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h35 | Próxima tentativa: 18:20
+[23-07-25 14:55:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h35 | Próxima tentativa: 18:20
+[23-07-25 14:55:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h24 | Próxima tentativa: 18:30
+[23-07-25 14:55:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h24 | Próxima tentativa: 18:30
+[23-07-25 14:55:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h24 | Próxima tentativa: 18:30
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 14:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 14:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:00:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h29 | Próxima tentativa: 18:30
+[23-07-25 15:00:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h40 | Próxima tentativa: 18:20
+[23-07-25 15:00:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h40 | Próxima tentativa: 18:20
+[23-07-25 15:00:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h29 | Próxima tentativa: 18:30
+[23-07-25 15:00:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h29 | Próxima tentativa: 18:30
+[23-07-25 15:00:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h29 | Próxima tentativa: 18:30
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:05:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h34 | Próxima tentativa: 18:30
+[23-07-25 15:05:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h45 | Próxima tentativa: 18:20
+[23-07-25 15:05:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h45 | Próxima tentativa: 18:20
+[23-07-25 15:05:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h34 | Próxima tentativa: 18:30
+[23-07-25 15:05:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h34 | Próxima tentativa: 18:30
+[23-07-25 15:05:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h34 | Próxima tentativa: 18:30
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:10:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:10:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h40 | Próxima tentativa: 18:30
+[23-07-25 15:10:02] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h50 | Próxima tentativa: 18:20
+[23-07-25 15:10:02] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h50 | Próxima tentativa: 18:20
+[23-07-25 15:10:02] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h40 | Próxima tentativa: 18:30
+[23-07-25 15:10:02] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h40 | Próxima tentativa: 18:30
+[23-07-25 15:10:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h40 | Próxima tentativa: 18:30
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:10:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:10:02] 🏁 CRON finalizado com sucesso
+[23-07-25 15:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:15:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h44 | Próxima tentativa: 18:30
+[23-07-25 15:15:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h55 | Próxima tentativa: 18:20
+[23-07-25 15:15:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 21h55 | Próxima tentativa: 18:20
+[23-07-25 15:15:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h44 | Próxima tentativa: 18:30
+[23-07-25 15:15:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h44 | Próxima tentativa: 18:30
+[23-07-25 15:15:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h44 | Próxima tentativa: 18:30
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:20:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h49 | Próxima tentativa: 18:30
+[23-07-25 15:20:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h00 | Próxima tentativa: 18:20
+[23-07-25 15:20:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h00 | Próxima tentativa: 18:20
+[23-07-25 15:20:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h49 | Próxima tentativa: 18:30
+[23-07-25 15:20:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h49 | Próxima tentativa: 18:30
+[23-07-25 15:20:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h49 | Próxima tentativa: 18:30
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:25:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h54 | Próxima tentativa: 18:30
+[23-07-25 15:25:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h05 | Próxima tentativa: 18:20
+[23-07-25 15:25:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h05 | Próxima tentativa: 18:20
+[23-07-25 15:25:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h54 | Próxima tentativa: 18:30
+[23-07-25 15:25:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h54 | Próxima tentativa: 18:30
+[23-07-25 15:25:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h54 | Próxima tentativa: 18:30
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:30:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h59 | Próxima tentativa: 18:30
+[23-07-25 15:30:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h10 | Próxima tentativa: 18:20
+[23-07-25 15:30:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h10 | Próxima tentativa: 18:20
+[23-07-25 15:30:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h59 | Próxima tentativa: 18:30
+[23-07-25 15:30:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h59 | Próxima tentativa: 18:30
+[23-07-25 15:30:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 21h59 | Próxima tentativa: 18:30
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:35:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h04 | Próxima tentativa: 18:30
+[23-07-25 15:35:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h15 | Próxima tentativa: 18:20
+[23-07-25 15:35:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h15 | Próxima tentativa: 18:20
+[23-07-25 15:35:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h04 | Próxima tentativa: 18:30
+[23-07-25 15:35:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h04 | Próxima tentativa: 18:30
+[23-07-25 15:35:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h04 | Próxima tentativa: 18:30
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h09 | Próxima tentativa: 18:30
+[23-07-25 15:40:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h20 | Próxima tentativa: 18:20
+[23-07-25 15:40:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h20 | Próxima tentativa: 18:20
+[23-07-25 15:40:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h09 | Próxima tentativa: 18:30
+[23-07-25 15:40:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h09 | Próxima tentativa: 18:30
+[23-07-25 15:40:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h09 | Próxima tentativa: 18:30
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:45:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h14 | Próxima tentativa: 18:30
+[23-07-25 15:45:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h25 | Próxima tentativa: 18:20
+[23-07-25 15:45:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h25 | Próxima tentativa: 18:20
+[23-07-25 15:45:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h14 | Próxima tentativa: 18:30
+[23-07-25 15:45:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h14 | Próxima tentativa: 18:30
+[23-07-25 15:45:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h14 | Próxima tentativa: 18:30
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:50:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h19 | Próxima tentativa: 18:30
+[23-07-25 15:50:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h30 | Próxima tentativa: 18:20
+[23-07-25 15:50:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h30 | Próxima tentativa: 18:20
+[23-07-25 15:50:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h19 | Próxima tentativa: 18:30
+[23-07-25 15:50:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h19 | Próxima tentativa: 18:30
+[23-07-25 15:50:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h19 | Próxima tentativa: 18:30
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 15:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 15:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h24 | Próxima tentativa: 18:30
+[23-07-25 15:55:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h35 | Próxima tentativa: 18:20
+[23-07-25 15:55:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h35 | Próxima tentativa: 18:20
+[23-07-25 15:55:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h24 | Próxima tentativa: 18:30
+[23-07-25 15:55:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h24 | Próxima tentativa: 18:30
+[23-07-25 15:55:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h24 | Próxima tentativa: 18:30
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 15:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 15:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:00:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h29 | Próxima tentativa: 18:30
+[23-07-25 16:00:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h40 | Próxima tentativa: 18:20
+[23-07-25 16:00:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h40 | Próxima tentativa: 18:20
+[23-07-25 16:00:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h29 | Próxima tentativa: 18:30
+[23-07-25 16:00:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h29 | Próxima tentativa: 18:30
+[23-07-25 16:00:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h29 | Próxima tentativa: 18:30
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:05:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h34 | Próxima tentativa: 18:30
+[23-07-25 16:05:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h45 | Próxima tentativa: 18:20
+[23-07-25 16:05:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h45 | Próxima tentativa: 18:20
+[23-07-25 16:05:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h34 | Próxima tentativa: 18:30
+[23-07-25 16:05:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h34 | Próxima tentativa: 18:30
+[23-07-25 16:05:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h34 | Próxima tentativa: 18:30
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:10:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h39 | Próxima tentativa: 18:30
+[23-07-25 16:10:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h50 | Próxima tentativa: 18:20
+[23-07-25 16:10:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h50 | Próxima tentativa: 18:20
+[23-07-25 16:10:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h39 | Próxima tentativa: 18:30
+[23-07-25 16:10:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h39 | Próxima tentativa: 18:30
+[23-07-25 16:10:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h39 | Próxima tentativa: 18:30
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:15:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h44 | Próxima tentativa: 18:30
+[23-07-25 16:15:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h55 | Próxima tentativa: 18:20
+[23-07-25 16:15:01] ⏳ Lead #340 (Eliane Fernandes) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 22h55 | Próxima tentativa: 18:20
+[23-07-25 16:15:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h44 | Próxima tentativa: 18:30
+[23-07-25 16:15:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h44 | Próxima tentativa: 18:30
+[23-07-25 16:15:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h44 | Próxima tentativa: 18:30
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:20:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h49 | Próxima tentativa: 18:30
+[23-07-25 16:20:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 23h00 | Próxima tentativa: 18:20
+[23-07-25 16:20:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h49 | Próxima tentativa: 18:30
+[23-07-25 16:20:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h49 | Próxima tentativa: 18:30
+[23-07-25 16:20:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h49 | Próxima tentativa: 18:30
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:25:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h54 | Próxima tentativa: 18:30
+[23-07-25 16:25:01] ⏳ Lead #341 (Andre Carvalho) - Corretor: Inêz Eva | Última tentativa: 23/07 17:20 | Tempo decorrido: 23h05 | Próxima tentativa: 18:20
+[23-07-25 16:25:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h54 | Próxima tentativa: 18:30
+[23-07-25 16:25:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h54 | Próxima tentativa: 18:30
+[23-07-25 16:25:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h54 | Próxima tentativa: 18:30
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:30:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h59 | Próxima tentativa: 18:30
+[23-07-25 16:30:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h59 | Próxima tentativa: 18:30
+[23-07-25 16:30:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h59 | Próxima tentativa: 18:30
+[23-07-25 16:30:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 22h59 | Próxima tentativa: 18:30
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:35:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h04 | Próxima tentativa: 18:30
+[23-07-25 16:35:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h04 | Próxima tentativa: 18:30
+[23-07-25 16:35:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h04 | Próxima tentativa: 18:30
+[23-07-25 16:35:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h04 | Próxima tentativa: 18:30
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h09 | Próxima tentativa: 18:30
+[23-07-25 16:40:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h09 | Próxima tentativa: 18:30
+[23-07-25 16:40:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h09 | Próxima tentativa: 18:30
+[23-07-25 16:40:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h09 | Próxima tentativa: 18:30
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:45:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h14 | Próxima tentativa: 18:30
+[23-07-25 16:45:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h14 | Próxima tentativa: 18:30
+[23-07-25 16:45:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h14 | Próxima tentativa: 18:30
+[23-07-25 16:45:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h14 | Próxima tentativa: 18:30
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:50:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h19 | Próxima tentativa: 18:30
+[23-07-25 16:50:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h19 | Próxima tentativa: 18:30
+[23-07-25 16:50:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h19 | Próxima tentativa: 18:30
+[23-07-25 16:50:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h19 | Próxima tentativa: 18:30
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 16:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 16:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h24 | Próxima tentativa: 18:30
+[23-07-25 16:55:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h24 | Próxima tentativa: 18:30
+[23-07-25 16:55:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h24 | Próxima tentativa: 18:30
+[23-07-25 16:55:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h24 | Próxima tentativa: 18:30
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 16:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 16:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:00:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h29 | Próxima tentativa: 18:30
+[23-07-25 17:00:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h29 | Próxima tentativa: 18:30
+[23-07-25 17:00:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h29 | Próxima tentativa: 18:30
+[23-07-25 17:00:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h29 | Próxima tentativa: 18:30
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:00:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:00:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:05:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:05:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h35 | Próxima tentativa: 18:30
+[23-07-25 17:05:02] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h35 | Próxima tentativa: 18:30
+[23-07-25 17:05:02] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h35 | Próxima tentativa: 18:30
+[23-07-25 17:05:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h35 | Próxima tentativa: 18:30
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:05:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:05:02] 🏁 CRON finalizado com sucesso
+[23-07-25 17:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:10:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h39 | Próxima tentativa: 18:30
+[23-07-25 17:10:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h39 | Próxima tentativa: 18:30
+[23-07-25 17:10:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h39 | Próxima tentativa: 18:30
+[23-07-25 17:10:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h39 | Próxima tentativa: 18:30
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:15:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h44 | Próxima tentativa: 18:30
+[23-07-25 17:15:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h44 | Próxima tentativa: 18:30
+[23-07-25 17:15:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h44 | Próxima tentativa: 18:30
+[23-07-25 17:15:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h44 | Próxima tentativa: 18:30
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:20:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h49 | Próxima tentativa: 18:30
+[23-07-25 17:20:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h49 | Próxima tentativa: 18:30
+[23-07-25 17:20:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h49 | Próxima tentativa: 18:30
+[23-07-25 17:20:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h49 | Próxima tentativa: 18:30
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:25:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h54 | Próxima tentativa: 18:30
+[23-07-25 17:25:01] ⏳ Lead #339 (Alice Regina Abreu) - Corretor: Suelem Miranda | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h54 | Próxima tentativa: 18:30
+[23-07-25 17:25:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h54 | Próxima tentativa: 18:30
+[23-07-25 17:25:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 23h54 | Próxima tentativa: 18:30
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:30:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:30:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h00 | Próxima tentativa: 18:30
+[23-07-25 17:30:02] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h00 | Próxima tentativa: 18:30
+[23-07-25 17:30:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h00 | Próxima tentativa: 18:30
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:30:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:30:02] 🏁 CRON finalizado com sucesso
+[23-07-25 17:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:35:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h04 | Próxima tentativa: 18:30
+[23-07-25 17:35:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h04 | Próxima tentativa: 18:30
+[23-07-25 17:35:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h04 | Próxima tentativa: 18:30
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h09 | Próxima tentativa: 18:30
+[23-07-25 17:40:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h09 | Próxima tentativa: 18:30
+[23-07-25 17:40:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h09 | Próxima tentativa: 18:30
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:45:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h14 | Próxima tentativa: 18:30
+[23-07-25 17:45:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h14 | Próxima tentativa: 18:30
+[23-07-25 17:45:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h14 | Próxima tentativa: 18:30
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:50:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h19 | Próxima tentativa: 18:30
+[23-07-25 17:50:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h19 | Próxima tentativa: 18:30
+[23-07-25 17:50:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h19 | Próxima tentativa: 18:30
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 17:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 17:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h24 | Próxima tentativa: 18:30
+[23-07-25 17:55:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h24 | Próxima tentativa: 18:30
+[23-07-25 17:55:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h24 | Próxima tentativa: 18:30
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 17:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 17:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:00:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:00:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h30 | Próxima tentativa: 18:30
+[23-07-25 18:00:02] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h30 | Próxima tentativa: 18:30
+[23-07-25 18:00:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h30 | Próxima tentativa: 18:30
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:00:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:00:02] 🏁 CRON finalizado com sucesso
+[23-07-25 18:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:05:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h34 | Próxima tentativa: 18:30
+[23-07-25 18:05:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h34 | Próxima tentativa: 18:30
+[23-07-25 18:05:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h34 | Próxima tentativa: 18:30
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:10:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h39 | Próxima tentativa: 18:30
+[23-07-25 18:10:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h39 | Próxima tentativa: 18:30
+[23-07-25 18:10:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h39 | Próxima tentativa: 18:30
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:15:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h44 | Próxima tentativa: 18:30
+[23-07-25 18:15:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h44 | Próxima tentativa: 18:30
+[23-07-25 18:15:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h44 | Próxima tentativa: 18:30
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:20:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h49 | Próxima tentativa: 18:30
+[23-07-25 18:20:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h49 | Próxima tentativa: 18:30
+[23-07-25 18:20:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h49 | Próxima tentativa: 18:30
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:20:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:20:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:25:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h54 | Próxima tentativa: 18:30
+[23-07-25 18:25:01] ⏳ Lead #338 (Gustavo Reis) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h54 | Próxima tentativa: 18:30
+[23-07-25 18:25:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h54 | Próxima tentativa: 18:30
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:30:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h59 | Próxima tentativa: 18:30
+[23-07-25 18:30:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 17:30 | Tempo decorrido: 00h59 | Próxima tentativa: 18:30
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:35:01] 📤 Enviando para 5531999341753 (Corretor: Sara Souza) | Lead: Edna Pereira
+[23-07-25 18:35:01] ✅ Enviado para corretor Sara Souza - Lead #342 (Edna Pereira) | MsgID: 3EB01779BF08BB7C06DE32
+[23-07-25 18:35:01] 📤 Enviando para 553183509051 (Corretor: Adilson de Souza) | Lead: Geraldo iannotta
+[23-07-25 18:35:01] ✅ Enviado para corretor Adilson de Souza - Lead #337 (Geraldo iannotta) | MsgID: 3EB0CD043ABA5FD463ED42
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h05 | Próxima tentativa: 22:35
+[23-07-25 18:40:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h05 | Próxima tentativa: 22:35
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:45:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h10 | Próxima tentativa: 22:35
+[23-07-25 18:45:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h10 | Próxima tentativa: 22:35
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:50:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h15 | Próxima tentativa: 22:35
+[23-07-25 18:50:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h15 | Próxima tentativa: 22:35
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:50:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:50:01] 🏁 CRON finalizado com sucesso
+[23-07-25 18:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 18:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h20 | Próxima tentativa: 22:35
+[23-07-25 18:55:01] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h20 | Próxima tentativa: 22:35
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 18:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 18:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:00:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:00:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h25 | Próxima tentativa: 22:35
+[23-07-25 19:00:02] ⏳ Lead #337 (Geraldo iannotta) - Corretor: Adilson de Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h25 | Próxima tentativa: 22:35
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:00:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:00:02] 🏁 CRON finalizado com sucesso
+[23-07-25 19:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:05:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h30 | Próxima tentativa: 22:35
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:05:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:05:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:10:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h35 | Próxima tentativa: 22:35
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:10:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:10:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:15:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h40 | Próxima tentativa: 22:35
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:15:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:15:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:20:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:20:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h45 | Próxima tentativa: 22:35
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:20:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:20:02] 🏁 CRON finalizado com sucesso
+[23-07-25 19:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:25:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h50 | Próxima tentativa: 22:35
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:25:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:25:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:30:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 21h55 | Próxima tentativa: 22:35
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:30:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:30:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:35:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 22h00 | Próxima tentativa: 22:35
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:35:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:35:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:40:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 22h05 | Próxima tentativa: 22:35
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:40:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:40:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:45:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 22h10 | Próxima tentativa: 22:35
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:45:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:45:01] 🏁 CRON finalizado com sucesso
+[23-07-25 19:50:02] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:50:02] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 22h15 | Próxima tentativa: 22:35
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:50:02] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:50:02] 🏁 CRON finalizado com sucesso
+[23-07-25 19:55:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 19:55:01] ⏳ Lead #342 (Edna Pereira) - Corretor: Sara Souza | Última tentativa: 23/07 21:35 | Tempo decorrido: 22h20 | Próxima tentativa: 22:35
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #311 (Idelson Alves)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #296 (Rodney Heleno)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #294 (Suzi Lazara Dias da Silva)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #285 (Jéssica Francielen)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #284 (Lucas Martins)
+[23-07-25 19:55:01] 🚫 Limite diário atingido para lead #276 (Nivia Liliane dos Santos)
+[23-07-25 19:55:01] 🏁 CRON finalizado com sucesso
+[23-07-25 20:00:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:00:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:05:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:05:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:10:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:10:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:15:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:15:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:20:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:20:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:25:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:25:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:30:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:30:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:35:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:40:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:40:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:45:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:45:01] ⏰ Fora do horário de atendimento (8h às 20h)
+[23-07-25 20:50:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[23-07-25 20:50:01] ⏰ Fora do horário de atendimento (8h às 20h)
