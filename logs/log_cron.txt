@@ -3632,3 +3632,7 @@
 [25-07-25 18:30:01] 🚫 Limite diário atingido para lead #342 (Edna Pereira)
 [25-07-25 18:30:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
 [25-07-25 18:30:01] 🏁 CRON finalizado com sucesso
+[25-07-25 18:35:01] ✅ CRON iniciado para verificação de leads SEM RESPOSTA
+[25-07-25 18:35:01] 🚫 Limite diário atingido para lead #342 (Edna Pereira)
+[25-07-25 18:35:01] 🚫 Limite diário atingido para lead #319 (Hudson Santos)
+[25-07-25 18:35:01] 🏁 CRON finalizado com sucesso
