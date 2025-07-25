@@ -8,13 +8,3 @@
   "email": "drapatriciajardim@gmail.com",
   "adset_nome": "Investidores Alphaville",...
 [23-07-25 14:50:00] ✅ Lead #343 gravado no banco
-[25-07-25 16:20:03] 📥 Lead recebido: {
-  "lead_id": "1293379862176441",
-  "form_id": "1299695773996064",
-  "data_criacao": "2025-07-25T19:19:57.000Z",
-  "pagina_id": "108038728224299",
-  "nome": "Aldonio Junger Vieira",
-  "telefone": "+553333355585",
-  "email": "aldoniojunger@bol.com.br.com",
-  "adset_nome": "Investidores Alpha...
-[25-07-25 16:20:03] ✅ Lead #344 gravado no banco

@@ -1013,5 +1013,3 @@
 [23-07-25 14:25:45] 🔁 Fila atualizada: corretor 5 (Adilson de Souza) movido para o final no conjunto 6. Próximo da fila: Sara Souza
 [23-07-25 14:50:00] 🔁 Fila atualizada: corretor 2 (Inêz Eva) movido para o final no conjunto 1. Próximo da fila: Carlos Castro
 [23-07-25 14:50:00] 📨 Lead #343 enviado com sucesso via WhatsApp
-[25-07-25 16:20:03] 🔁 Fila atualizada: corretor 1 (Carlos Castro) movido para o final no conjunto 1. Próximo da fila: Adilson de Souza
-[25-07-25 16:20:03] 📨 Lead #344 enviado com sucesso via WhatsApp

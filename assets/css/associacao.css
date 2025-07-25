@@ -1,0 +1,120 @@
+/* ===============================
+   Estilo de Associação de Corretores
+   =============================== */
+
+/* Sidebar de corretores */
+.corretores-sidebar {
+  position: fixed;
+  top: 70px;
+  left: 10px;
+  width: 250px;
+  max-height: 90vh;
+  overflow-y: auto;
+  background: #f8f9fa;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.corretores-sidebar h5,
+.card-header.bg-light {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Botões de corretores */
+.corretor-item {
+  width: 100%;
+  display: flex; /* ← importante para ocupar uma linha inteira */
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border: 1px solid #007bff;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #007bff;
+  cursor: grab;
+  transition: background-color 0.2s, color 0.2s;
+  margin-bottom: 6px;
+}
+
+.corretor-item:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.corretor-item .me-2 {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.remove-corretor {
+  color: red;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+/* Container dos cards de conjuntos */
+.conjuntos-container {
+  margin-left: 280px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Card dos conjuntos */
+.conjunto-card {
+  width: 100%;
+  min-height: 180px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: 0.3s;
+  position: relative;
+}
+
+.conjunto-card.hover {
+  border: 2px solid #28a745;
+  box-shadow: 0 0 12px rgba(40, 167, 69, 0.3);
+}
+
+.card-header {
+  font-weight: bold;
+  background: #007bff;
+  color: white;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  cursor: move;
+}
+
+.card-body {
+  padding: 10px;
+  min-height: 100px;
+}
+
+.dropzone-area {
+  min-height: 100px;
+  padding: 8px;
+}
+
+.corretor-inativo {
+  background-color: #e9ecef !important;
+  color: #6c757d !important;
+  border-color: #ced4da !important;
+  cursor: not-allowed !important;
+  opacity: 0.7;
+}
+
+.corretor-inativo .fa-trash {
+  display: none;
+}
+
