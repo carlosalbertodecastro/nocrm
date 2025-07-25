@@ -160,3 +160,30 @@ Por favor, selecione uma opção para atualizar o status:
 Por favor, selecione uma opção para atualizar o status:
 [23-07-25 18:35:01] 🌐 Requisição para Z-API: https://api.z-api.io/instances/3E3D01D0B8E320CC5E1BAE53A3A095E1/token/4BA8F6B61DF887F5BE20B536/send-option-list | Payload: {"phone":"553183509051","message":"\ud83d\udce3 Lembrete: O lead *Geraldo iannotta* ainda n\u00e3o teve retorno.\n\n\ud83d\udcc6 Recebido em: 23\/07\/2025 01:50\n\ud83d\udcde Telefone: +5531993587330\n\ud83d\udce3 An\u00fancio: [ADSET] (IMG) - Terramaris Vespasiano 249mil\n\nPor favor, selecione uma op\u00e7\u00e3o para atualizar o status:","optionList":{"title":"Escolha uma op\u00e7\u00e3o","buttonLabel":"Abrir op\u00e7\u00f5es","options":[{"id":"whatsapp","title":"Contato via WhatsApp","description":""},{"id":"telefone","title":"Contato via Telefone","description":""},{"id":"nao-contatado","title":"N\u00e3o consegui contato","description":""},{"id":"desqualificado","title":"Lead desqualificado","description":""}]}}
 [23-07-25 18:35:01] 📥 Resposta com opções: {"zaapId":"3E4A3AD0456CB01CF1EB36E82C5D63CB","messageId":"3EB0CD043ABA5FD463ED42","id":"3EB0CD043ABA5FD463ED42"}
+[24-07-25 08:00:01] 📤 [enviar_mensagem_com_opcoes] Número: 5531999341753 | Msg: 📣 Lembrete: O lead *Edna Pereira* ainda não teve retorno.
+
+📆 Recebido em: 23/07/2025 02:26
+📞 Telefone: +5531986486685
+📣 Anúncio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil
+
+Por favor, selecione uma opção para atualizar o status:
+[24-07-25 08:00:01] 🌐 Requisição para Z-API: https://api.z-api.io/instances/3E3D01D0B8E320CC5E1BAE53A3A095E1/token/4BA8F6B61DF887F5BE20B536/send-option-list | Payload: {"phone":"5531999341753","message":"\ud83d\udce3 Lembrete: O lead *Edna Pereira* ainda n\u00e3o teve retorno.\n\n\ud83d\udcc6 Recebido em: 23\/07\/2025 02:26\n\ud83d\udcde Telefone: +5531986486685\n\ud83d\udce3 An\u00fancio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil\n\nPor favor, selecione uma op\u00e7\u00e3o para atualizar o status:","optionList":{"title":"Escolha uma op\u00e7\u00e3o","buttonLabel":"Abrir op\u00e7\u00f5es","options":[{"id":"whatsapp","title":"Contato via WhatsApp","description":""},{"id":"telefone","title":"Contato via Telefone","description":""},{"id":"nao-contatado","title":"N\u00e3o consegui contato","description":""},{"id":"desqualificado","title":"Lead desqualificado","description":""}]}}
+[24-07-25 08:00:02] 📥 Resposta com opções: {"zaapId":"3E4AAB4581D3E04B6D35BE3BA2488FC9","messageId":"3EB060175B3D95A61FFD33","id":"3EB060175B3D95A61FFD33"}
+[24-07-25 12:05:01] 📤 [enviar_mensagem_com_opcoes] Número: 5531999341753 | Msg: 📣 Lembrete: O lead *Edna Pereira* ainda não teve retorno.
+
+📆 Recebido em: 23/07/2025 02:26
+📞 Telefone: +5531986486685
+📣 Anúncio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil
+
+Por favor, selecione uma opção para atualizar o status:
+[24-07-25 12:05:01] 🌐 Requisição para Z-API: https://api.z-api.io/instances/3E3D01D0B8E320CC5E1BAE53A3A095E1/token/4BA8F6B61DF887F5BE20B536/send-option-list | Payload: {"phone":"5531999341753","message":"\ud83d\udce3 Lembrete: O lead *Edna Pereira* ainda n\u00e3o teve retorno.\n\n\ud83d\udcc6 Recebido em: 23\/07\/2025 02:26\n\ud83d\udcde Telefone: +5531986486685\n\ud83d\udce3 An\u00fancio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil\n\nPor favor, selecione uma op\u00e7\u00e3o para atualizar o status:","optionList":{"title":"Escolha uma op\u00e7\u00e3o","buttonLabel":"Abrir op\u00e7\u00f5es","options":[{"id":"whatsapp","title":"Contato via WhatsApp","description":""},{"id":"telefone","title":"Contato via Telefone","description":""},{"id":"nao-contatado","title":"N\u00e3o consegui contato","description":""},{"id":"desqualificado","title":"Lead desqualificado","description":""}]}}
+[24-07-25 12:05:01] 📥 Resposta com opções: {"zaapId":"3E4ACD7F0473D023D8157A71125B9295","messageId":"3EB03E5BFD3F8AEAC54376","id":"3EB03E5BFD3F8AEAC54376"}
+[24-07-25 16:05:01] 📤 [enviar_mensagem_com_opcoes] Número: 5531999341753 | Msg: 📣 Lembrete: O lead *Edna Pereira* ainda não teve retorno.
+
+📆 Recebido em: 23/07/2025 02:26
+📞 Telefone: +5531986486685
+📣 Anúncio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil
+
+Por favor, selecione uma opção para atualizar o status:
+[24-07-25 16:05:01] 🌐 Requisição para Z-API: https://api.z-api.io/instances/3E3D01D0B8E320CC5E1BAE53A3A095E1/token/4BA8F6B61DF887F5BE20B536/send-option-list | Payload: {"phone":"5531999341753","message":"\ud83d\udce3 Lembrete: O lead *Edna Pereira* ainda n\u00e3o teve retorno.\n\n\ud83d\udcc6 Recebido em: 23\/07\/2025 02:26\n\ud83d\udcde Telefone: +5531986486685\n\ud83d\udce3 An\u00fancio: AD [VIDEO 40s] - Mirante do Castelo Renda 8 a 12mil\n\nPor favor, selecione uma op\u00e7\u00e3o para atualizar o status:","optionList":{"title":"Escolha uma op\u00e7\u00e3o","buttonLabel":"Abrir op\u00e7\u00f5es","options":[{"id":"whatsapp","title":"Contato via WhatsApp","description":""},{"id":"telefone","title":"Contato via Telefone","description":""},{"id":"nao-contatado","title":"N\u00e3o consegui contato","description":""},{"id":"desqualificado","title":"Lead desqualificado","description":""}]}}
+[24-07-25 16:05:01] 📥 Resposta com opções: {"zaapId":"3E4AEF05EC6BC0D09D377E33C89E9967","messageId":"3EB0D3EE1AE7064825E650","id":"3EB0D3EE1AE7064825E650"}

@@ -1,7 +1,7 @@
 <?php
 // gestao-de-leads/ajax/permissoes_cargos.php
 
-require_once __DIR__ . '/../config/config.php';
+require_once 'config/config.php';
 
 header('Content-Type: application/json');
 

@@ -1,7 +1,7 @@
 <?php
 // Incluir os arquivos de configuração e definição de níveis
-require_once 'config/config.php'; // Conexão com o banco de dados
-require_once 'config/niveis.php'; // Definição dos níveis de acesso
+require_once __DIR__ . '/../config/config.php'; // Conexão com o banco de dados
+require_once __DIR__ . '/../config/niveis.php'; // Definição dos níveis de acesso
 
 // Iniciar a sessão, caso ainda não tenha sido iniciada
 if (!isset($_SESSION)) {

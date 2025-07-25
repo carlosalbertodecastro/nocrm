@@ -35,7 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             // Define níveis dinamicamente
             definirNiveisGlobais($pdo, $usuario['empresa_id']);
 
-            header('Location: dashboard.php');
+            if ($usuario['nivel_acesso'] == 1) {
+                header('Location: corretor.php');
+            } else {
+                header('Location: dashboard.php');
+            }
             exit;
         } else {
             $erro = 'E-mail ou senha inválidos.';
