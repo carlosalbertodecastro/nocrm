@@ -1,0 +1,12 @@
+---
+Data: 2025-07-07 10:14:00
+Para: 553195293737
+Mensagem: 🧪 *Teste de Envio de Lead via Z-API*
+*Corretor:* Carlos Castro
+*Anúncio:* Investidores Interior
+
+*Cliente:* João Teste
+*Telefone:* +5531999999999
+
+Resposta: {"error":"Instance not found"}
+---
